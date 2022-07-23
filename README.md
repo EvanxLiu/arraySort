@@ -1,6 +1,8 @@
 # arraySort
 ICS3U Array Sorting Visualizer - Evan Liu and Naman Biyani
+
 Sorting algorithm visualizer that allows you to choose the type, colour theme, sound, and amount of elements. 
+
 Sorting algorithms available - Quick Sort, Merge Sort, Bubble Sort, Insertion Sort, Selection Sort, Cocktail Sort, BOGO Sort 
 
 ![sort1](https://user-images.githubusercontent.com/92675742/180586502-e1b7cccd-a2c0-4570-be0f-ca2d340594ca.png)
